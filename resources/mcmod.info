@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fantasycraft",
+  "name": "Fantasy Craft",
+  "description": "Explore a world of Fantasy.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
